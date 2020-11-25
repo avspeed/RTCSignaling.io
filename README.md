@@ -2,7 +2,7 @@
 ```csharp
 git clone https://github.com/avspeed/RTCSignaling.io.git
 
-cd https://github.com/avspeed/RTCSignaling.io
+cd RTCSignaling.io
 
 npm install
 
